@@ -1,0 +1,16 @@
+{
+  "name": "pangram_finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pangram_finder.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^24.5.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

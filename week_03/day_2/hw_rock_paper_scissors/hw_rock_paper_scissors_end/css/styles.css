@@ -1,0 +1,13 @@
+body {
+  background-color: #d6d4e0;
+  text-align: center;
+}
+
+p {
+  color: #622569;
+}
+
+p#result {
+  font-size: 30px;
+  color: #d64161;
+}

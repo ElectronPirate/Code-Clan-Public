@@ -1,0 +1,15 @@
+{
+  "name": "anagram_finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "anagram_finder.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.5.0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "upper_caser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "upper_caser.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.5.0"
+  }
+}

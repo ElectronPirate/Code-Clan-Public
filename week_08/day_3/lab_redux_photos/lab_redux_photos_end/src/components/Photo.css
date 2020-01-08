@@ -1,0 +1,25 @@
+.photo {
+  margin: 1em;
+}
+
+.photo img {
+   border-radius: 10px;
+}
+
+.like-btn {
+  margin: 0 0 0 -1em;
+  border-radius: 15px;
+  padding: 3px 5px 3px;
+  font-size: 20px;
+  outline: none;
+}
+
+.liked {
+  border-color: green;
+  color: green;
+}
+
+.not-liked {
+  border-color: red;
+  color: red;
+}

@@ -1,0 +1,7 @@
+ul.bucketlist {
+  list-style-type: none;
+}
+
+ul.bucketlist li input {
+  margin-right: 1.5em;
+}
